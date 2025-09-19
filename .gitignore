@@ -1,0 +1,9 @@
+DerivedData/
+build/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+Packages/
+Package.resolved
+Pods/
+*.DS_Store
